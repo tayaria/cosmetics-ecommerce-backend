@@ -318,7 +318,7 @@ This project is licensed under the MIT License.
 
 Aymen Tayari - aymentayari191@gmail.com
 
-Project Link: [https://github.com/yourusername/cosmetics-backend](https://github.com/yourusername/cosmetics-backend)](https://github.com/tayaria/cosmetics-ecommerce-backend)
+Project Link: (https://github.com/tayaria/cosmetics-ecommerce-backend)
 
 ## Acknowledgments
 
