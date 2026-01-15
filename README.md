@@ -62,7 +62,7 @@ A robust Spring Boot backend application for managing a cosmetics e-commerce pla
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cosmetics-backend.git
+git clone https://github.com/tayaria/cosmetics-ecommerce-backend.git
 cd cosmetics-backend
 ```
 
