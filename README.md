@@ -316,9 +316,9 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Your Name - your.email@example.com
+Aymen Tayari - aymentayari191@gmail.com
 
-Project Link: [https://github.com/yourusername/cosmetics-backend](https://github.com/yourusername/cosmetics-backend)
+Project Link: [https://github.com/yourusername/cosmetics-backend](https://github.com/yourusername/cosmetics-backend)](https://github.com/tayaria/cosmetics-ecommerce-backend)
 
 ## Acknowledgments
 
