@@ -1,11 +1,11 @@
-# 🛒 Cosmetics E-Commerce Backend
+#  Cosmetics E-Commerce Backend
 
 This project is the **backend of a cosmetics e-commerce web application**, developed using **Spring Boot**.  
 It provides secure REST APIs to manage users, authentication, cosmetic products, categories, orders, and shopping carts.
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 The backend is responsible for:
 - Business logic
@@ -16,7 +16,7 @@ The backend is responsible for:
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 - Java 17
 - Spring Boot
 - Spring Data JPA
@@ -29,7 +29,7 @@ The backend is responsible for:
 
 ---
 
-## ✨ Features
+##  Features
 - User management (Admin / Customer)
 - Secure authentication and authorization using JWT
 - CRUD operations for cosmetic products
@@ -41,7 +41,7 @@ The backend is responsible for:
 
 ---
 
-## 🗂️ Project Architecture
+##  Project Architecture
 The project follows a layered architecture:
 
 - **Controller**: Handles HTTP requests and REST endpoints
@@ -52,9 +52,9 @@ The project follows a layered architecture:
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
-### 1️⃣ Database Configuration
+###  Database Configuration
 Create a MySQL database:
 
 ```sql
